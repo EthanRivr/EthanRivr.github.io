@@ -12,13 +12,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-<img src="https://user-images.githubusercontent.com/102717606/162140941-9a0e78fe-d948-4b51-bbab-fd7cdeb344df.png" width="320" height="180"><img src="https://user-images.githubusercontent.com/102717606/162145329-edb185e8-49e3-4a8b-9dbb-db75262dea97.png" width="320" height="180"><img src="https://user-images.githubusercontent.com/102717606/162145333-5e441e17-4aa5-454a-a7ca-b25129ba2044.png" width="320" height="180"><img src="https://user-images.githubusercontent.com/102717606/162145337-63aa2c5e-06c8-44fd-a1d3-6da6f4291d8c.png" width="320" height="180"><img src="https://user-images.githubusercontent.com/102717606/162145346-29ea3f4d-2f8a-47ca-b50e-bd71042edc0e.png" width="320" height="180"><img src="https://user-images.githubusercontent.com/102717606/162145354-f92df470-2ac3-46e9-a6a1-3ab576417ecb.png" width="320" height="180"><img src="https://user-images.githubusercontent.com/102717606/162145360-dc2e4c1c-15ba-471b-808a-910f17e73727.png" width="320" height="180"><img src="https://user-images.githubusercontent.com/102717606/162145369-911465c6-c641-44b0-8d05-d192e1851677.png" width="320" height="180"><img src="https://user-images.githubusercontent.com/102717606/162145378-439bc0cc-0ed9-4196-8bd2-afcc27c091c1.png" width="320" height="180"><img src="https://user-images.githubusercontent.com/102717606/162145390-3d687c9e-9b38-40dd-8f01-69810ee5cd98.png" width="320" height="180"><img src="https://user-images.githubusercontent.com/102717606/162145400-eb661f86-b4ac-45b5-a5eb-009388e3486e.png" width="320" height="180"><img src="https://user-images.githubusercontent.com/102717606/162145412-0205211f-7b87-46bd-a670-43d534a3860f.png" width="320" height="180"><img src="https://user-images.githubusercontent.com/102717606/162145417-1d1db0b9-4d7d-4bce-bdbf-d2b97e509ded.png" width="320" height="180"><img src="https://user-images.githubusercontent.com/102717606/162145558-e541b468-c4ed-4960-ae90-93d5ba850b90.png" width="320" height="180">
-
+<img src="https://user-images.githubusercontent.com/102717606/162145558-e541b468-c4ed-4960-ae90-93d5ba850b90.png" width="960" height="540">
+<img src="https://user-images.githubusercontent.com/102717606/162150633-011d7c38-4232-4665-b715-eed1a34bb06b.png" width="960" height="540">
 
 
 https://user-images.githubusercontent.com/102717606/162149410-c45d6217-035d-4569-9858-ed29a7f1b45a.mp4
-
-
 https://user-images.githubusercontent.com/102717606/162149753-ae48d22d-ef48-4f80-9303-11f58164a636.mp4
 
 
