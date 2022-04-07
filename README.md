@@ -18,8 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. ![Screenshot (280)](https://user-images.githubusercontent.com/102717606/162134970-caf80c38-784d-4c5d-b877-5372dd1447d4.png)
-2. ![Screenshot (281)](https://user-images.githubusercontent.com/102717606/162134998-61f37ad1-6c1d-4639-8c64-775eab2f1dc5.png)
+1. 
+2. 
 3. a
 4. a
 5. a
