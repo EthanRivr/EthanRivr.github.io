@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```markdown
 Steps of how i drew this
 
-1. <img src="https://user-images.githubusercontent.com/102717606/162140941-9a0e78fe-d948-4b51-bbab-fd7cdeb344df.png" alt="Step1">
+1. ![image](https://user-images.githubusercontent.com/102717606/162140941-9a0e78fe-d948-4b51-bbab-fd7cdeb344df.png)
 
 
 **Bold** and _Italic_ and `Code` text
