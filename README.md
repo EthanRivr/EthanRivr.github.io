@@ -12,8 +12,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-<img src="https://user-images.githubusercontent.com/102717606/162145558-e541b468-c4ed-4960-ae90-93d5ba850b90.png" width="960" height="540">
-<img src="https://user-images.githubusercontent.com/102717606/162150633-011d7c38-4232-4665-b715-eed1a34bb06b.png" width="960" height="540">
+<img src="https://user-images.githubusercontent.com/102717606/162145558-e541b468-c4ed-4960-ae90-93d5ba850b90.png">
+<img src="https://user-images.githubusercontent.com/102717606/162150633-011d7c38-4232-4665-b715-eed1a34bb06b.png">
 
 
 https://user-images.githubusercontent.com/102717606/162149410-c45d6217-035d-4569-9858-ed29a7f1b45a.mp4
