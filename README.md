@@ -1,10 +1,10 @@
-# My Art
+# My Personal Art Projects
 
->Owned by: Ethanael Rivera  
+>I am an aspiring artist and animator, and I am quite eager to learn anything about improving my art.
 
 ---
 
-## My drawings
+## Digital Paintings
 
 ### October 21 - 25 2020
 <p align="center">
@@ -14,7 +14,7 @@
   <img width="75%" height="75%" src="https://user-images.githubusercontent.com/102717606/166681805-d51b07f3-136f-4f4f-8b24-a6e6797c86a6.png">
 </p>
 
-### April 20 - September 21 2021
+### April 20 2021 - September 21 2021
 <p align="center">
   <img width="75%" height="75%" src="https://user-images.githubusercontent.com/102717606/166682661-7d595ce6-e07a-4021-9483-a6fc9ec405ef.png">
 </p>
@@ -43,20 +43,24 @@
 
 ---
 
-## My animated projects
+## Animation Projects
 
-### June 29 2021 - May 6 2021
-[![Waiting](https://user-images.githubusercontent.com/102717606/162656714-72f36254-ca02-4a8c-bfb5-3dd65e93d738.png)](https://youtu.be/qAxHgDfcjZ8)[![Ayaka Fan Animation](https://user-images.githubusercontent.com/102717606/162657054-d5c6b77f-84f1-4c82-b6b6-9335f249d648.png)](https://youtu.be/ZU0GAcsw3Vs)
+### March 25 - April 18 2021
+[![Somethin](https://user-images.githubusercontent.com/102717606/166701714-913352c9-32a6-4e6b-b767-249e7acf26e9.png)](https://youtu.be/OIy926VBYzc) [![Ball](https://user-images.githubusercontent.com/102717606/166701953-f9b54f78-9cdf-416f-930d-d4d27f4176c8.png)](https://youtu.be/oiscO7JGspw)
+
+
+### May 6 - June 29 2021
+[![Ayaka Fan Animation](https://user-images.githubusercontent.com/102717606/162657054-d5c6b77f-84f1-4c82-b6b6-9335f249d648.png)](https://youtu.be/ZU0GAcsw3Vs) [![Waiting](https://user-images.githubusercontent.com/102717606/162656714-72f36254-ca02-4a8c-bfb5-3dd65e93d738.png)](https://youtu.be/qAxHgDfcjZ8)
 
 ### May 4 2022
 [![Ayaka vs Nobushi - Genhsin Impact Animation](https://user-images.githubusercontent.com/102717606/166681358-1a1b3a57-d172-4449-9274-c8284f8b0c18.png)](https://youtu.be/D6slNZb-JwE)
 
-## Others
-
 ---
 
+## Others
+
 ### March 11 - 26 2022
-[![VtuberTest#1](https://user-images.githubusercontent.com/102717606/162657178-6e21c894-b99a-4274-b240-4407daecc323.png)](https://youtu.be/sCkywbYfNaA)[![image](https://user-images.githubusercontent.com/102717606/162658991-d9cffcec-3bfa-4f80-8bec-968c93839b2a.png)](https://youtu.be/c-7V15PoihI)
+[![VtuberTest#1](https://user-images.githubusercontent.com/102717606/162657178-6e21c894-b99a-4274-b240-4407daecc323.png)](https://youtu.be/sCkywbYfNaA) [![image](https://user-images.githubusercontent.com/102717606/162658991-d9cffcec-3bfa-4f80-8bec-968c93839b2a.png)](https://youtu.be/c-7V15PoihI)
 
 
 
