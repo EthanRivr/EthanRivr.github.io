@@ -6,7 +6,7 @@
 
 ## My drawings
 
-### October 21-25 2020
+### October 21 - 25 2020
 <img src="https://user-images.githubusercontent.com/102717606/166682912-fd8d3bbc-4455-439c-991f-40d3e351cb8b.png" width="50%" height="50%"><img src="https://user-images.githubusercontent.com/102717606/166681805-d51b07f3-136f-4f4f-8b24-a6e6797c86a6.png" width="50%" height="50%">
 
 ### April 20 - September 21 2021
