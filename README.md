@@ -14,7 +14,7 @@
   <img width="75%" height="75%" src="https://user-images.githubusercontent.com/102717606/166681805-d51b07f3-136f-4f4f-8b24-a6e6797c86a6.png">
 </p>
 
-### April 20 - September 21 2021
+### April 20 2021
 <p align="center">
   <img width="75%" height="75%" src="https://user-images.githubusercontent.com/102717606/166682661-7d595ce6-e07a-4021-9483-a6fc9ec405ef.png">
 </p>
